@@ -700,6 +700,10 @@ body {
   .header .navbar .navbar-nav .nav-item .form-control{
     width: 125px;
   }
+  .main-content{
+    padding-left: 50px;
+    padding-right: 45px;
+  }
   .main-content .topbar {
     flex-direction: column;
     align-items: center;
@@ -731,6 +735,7 @@ body {
     left: 90px;
     bottom: 30px;
   }
+
 
 }
 @media only screen and (max-width: 375px){
